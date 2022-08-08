@@ -6,6 +6,9 @@
   "homepage": "https://github.com/ferriesg/ferries-cli-dev/tree/main/packages/core#readme",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "ferries-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,5 +28,6 @@
   },
   "dependencies": {
     "@ferries-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "61335238c64da6aa3e3ae88e7d197aedbd40f279"
 }
