@@ -1,18 +1,26 @@
 {
   "name": "ferries-cli-dev",
   "version": "1.0.0",
-  "description": "ferries-cli dev",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferriesg/ferries-cli-dev.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "lerna": "^5.3.0"
+  "bugs": {
+    "url": "https://github.com/ferriesg/ferries-cli-dev/issues"
   },
+  "homepage": "https://github.com/ferriesg/ferries-cli-dev#readme",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "lerna": "^5.3.0"
+  }
 }
