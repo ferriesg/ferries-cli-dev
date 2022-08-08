@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ferriesg/ferries-cli-dev/issues"
   },
-  "gitHead": "61335238c64da6aa3e3ae88e7d197aedbd40f279"
+  "gitHead": "8f6552468d30abefd19180fe68f773a03ec6eee8",
+  "publishConfig": {
+    "access": "public"
+  }
 }
