@@ -1,6 +1,6 @@
 {
   "name": "@ferries-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "weiming <ferries_g@163.com>",
   "homepage": "https://github.com/ferriesg/ferries-cli-dev/tree/main/packages/core#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/ferriesg/ferries-cli-dev/issues"
   },
   "dependencies": {
-    "@ferries-cli-dev/utils": "^1.0.2"
+    "@ferries-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "8f6552468d30abefd19180fe68f773a03ec6eee8",
   "publishConfig": {
